@@ -1,13 +1,13 @@
 {
-    "name": "de.drl.pinpoint2",
-    "version": "0.0.1",
-    "displayName": "Narrating Intercultural Spaces",
-    "cordova": {
-        "platforms": [
-            "android"
-        ]
-    },
-    "dependencies": {
-        "cordova-android": "~6.2.3"
-    }
+  "name": "de.drl.pinpoint2",
+  "version": "0.0.1",
+  "displayName": "Narrating Intercultural Spaces",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~6.2.3"
+  }
 }
