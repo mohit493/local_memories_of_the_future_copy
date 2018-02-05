@@ -1,0 +1,33 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-fetch": {
+      "PACKAGE_NAME": "de.drl.pinpoint2_tests_1"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "de.drl.pinpoint2_tests_1"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "de.drl.pinpoint2_tests_1"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "de.drl.pinpoint2_tests_1"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "de.drl.pinpoint2_tests_1"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "de.drl.pinpoint2_tests_1"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "de.drl.pinpoint2_tests_1"
+    }
+  },
+  "dependent_plugins": {}
+}
