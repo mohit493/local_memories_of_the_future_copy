@@ -4,10 +4,12 @@
   "displayName": "Narrating Intercultural Spaces",
   "cordova": {
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ]
   },
   "dependencies": {
-    "cordova-android": "~6.2.3"
+    "cordova-android": "~6.2.3",
+    "cordova-ios": "^4.5.4"
   }
 }
