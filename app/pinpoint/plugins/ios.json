@@ -8,25 +8,25 @@
   },
   "installed_plugins": {
     "cordova-plugin-fetch": {
-      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_1"
+      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_2"
     },
     "cordova-plugin-file": {
-      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_1"
+      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_2"
     },
     "cordova-plugin-file-transfer": {
-      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_1"
+      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_2"
     },
     "cordova-plugin-geolocation": {
-      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_1"
+      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_2"
     },
     "cordova-plugin-media-capture": {
-      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_1"
+      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_2"
     },
     "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_1"
+      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_2"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_1"
+      "PACKAGE_NAME": "de.drl.pinpoint2_iOS_2"
     }
   },
   "dependent_plugins": {}
