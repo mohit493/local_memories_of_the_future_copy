@@ -1,6 +1,6 @@
 <!--
 #
-# Licensed to the Apache Software Foundation (ASF) under one
+# Licensed o the Apache Software Foundation (ASF) under one
 # or more contributor license agreements.  See the NOTICE file
 # distributed with this work for additional information
 # regarding copyright ownership.  The ASF licenses this file
@@ -83,4 +83,3 @@ cross-platform. Some good examples are shown here:
 Also, note that even if you are working on Windows, and in case your hook scripts aren't bat files (which is recommended, if you want your scripts to work in non-Windows operating systems) Cordova CLI will expect a shebang line as the first line for it to know the interpreter it needs to use to launch the script. The shebang line should match the following example:
 
     #!/usr/bin/env [name_of_interpreter_executable]
-
