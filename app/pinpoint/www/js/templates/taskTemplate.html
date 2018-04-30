@@ -6,11 +6,11 @@
 				<ul class="categories">
 					<% for (i=0; i<tasks.length; i++) { %>
 					<li>
-						<input class="categoryButton form-radio" name="group1" type="radio" id="radioButton<%= i %>" data-task-id="<%= i %>"/> 
+						<input class="categoryButton form-radio" name="group1" type="radio" id="radioButton<%= i %>" data-task-id="<%= i %>"/>
 						<label class="categoryLabel" for="radioButton<%= i %>"><%= tasks.at(i).get('name') %></label>
 					</li>
 					<% } %>
-				</ul> 
+				</ul>
 			</div>
 		</div>
 	</div>

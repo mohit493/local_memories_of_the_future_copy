@@ -26,5 +26,5 @@
         <splash density="xxxhdpi" src="res/splash.9.png" />
     </platform>
     <engine name="android" spec="~6.2.3" />
-    <engine name="ios" spec="^4.5.4" />
+    <engine name="ios" spec="~4.5.4" />
 </widget>
